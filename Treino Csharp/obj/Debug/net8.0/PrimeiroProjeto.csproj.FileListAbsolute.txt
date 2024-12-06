@@ -1,0 +1,14 @@
+d:\CSharp\Alura\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+d:\CSharp\Alura\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+d:\CSharp\Alura\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+d:\CSharp\Alura\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+d:\CSharp\Alura\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+d:\CSharp\Alura\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+d:\CSharp\Alura\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+d:\CSharp\Alura\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+d:\CSharp\Alura\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+d:\CSharp\Alura\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+d:\CSharp\Alura\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+d:\CSharp\Alura\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+d:\CSharp\Alura\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+d:\CSharp\Alura\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
