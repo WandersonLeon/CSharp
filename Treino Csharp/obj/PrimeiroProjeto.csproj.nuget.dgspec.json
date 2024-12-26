@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\Alura\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {}
+    "D:\\CSharp\\Alura\\Treino Csharp\\PrimeiroProjeto.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\Alura\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {
+    "D:\\CSharp\\Alura\\Treino Csharp\\PrimeiroProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\Alura\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectUniqueName": "D:\\CSharp\\Alura\\Treino Csharp\\PrimeiroProjeto.csproj",
         "projectName": "PrimeiroProjeto",
-        "projectPath": "D:\\CSharp\\Alura\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectPath": "D:\\CSharp\\Alura\\Treino Csharp\\PrimeiroProjeto.csproj",
         "packagesPath": "C:\\Users\\wande\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\Alura\\PrimeiroProjeto\\obj\\",
+        "outputPath": "D:\\CSharp\\Alura\\Treino Csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wande\\AppData\\Roaming\\NuGet\\NuGet.Config"
